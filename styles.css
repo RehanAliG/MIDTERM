@@ -1,0 +1,59 @@
+.icons
+{
+  text-align:center;
+}
+.icons a
+{
+  width:80px;
+  height:80px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:40%;
+  background-color:#33353d
+}
+
+.icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.icons a{
+  background-color:#050505;
+  color:#ffffff;
+  font-size:60px;
+  display:inline-block;
+  line-height:44px;
+  /* width:44px;
+  height:44px; */
+  text-align:center;
+  margin-right:8px;
+  border-radius:20%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.icons a:active,.icons a:focus,.icons a:hover
+{
+  color:#fff;
+  background-color:#29aafe
+}
+.icons.size-lg a
+{
+  line-height:34px;
+  height:34px;
+  width:34px;
+  font-size:14px
+}
+
+.border
+{
+    border-style:solid;
+ border-width: 100px;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 200px;
+  margin-left: 200px;
+}
